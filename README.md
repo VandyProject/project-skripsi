@@ -2,7 +2,7 @@
 CLASSIFICATION OF TODDLER STUNTING STATUS USING THE K-NN METHOD  (K-NEAREST NEIGHBOR)
 
 ## halaman login admin
-![alt text](https://github.com/VandyProject/project-skripsi/import/1.png?raw=true)
+![alt text](https://github.com/VandyProject/project-skripsi/blob/main/import/1.png?raw=true)
 
 ## halaman data training
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/2.png?raw=true)
